@@ -8,7 +8,4 @@ def calc(a, b):
     mult = a * b
     print (mult)
 
-    divide = a / b
-    print (divide)
-
 calc(3,4)
