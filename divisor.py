@@ -1,0 +1,2 @@
+def divisor (x):
+    pass
